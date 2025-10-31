@@ -48,7 +48,7 @@ general:
   inferBuildTool: true
   buildTool: "mta"
 service:
-  buildToolVersion: "MBTJ17N18"
+  # buildToolVersion: "MBTJ17N18"
   stages:
     Acceptance:
       cfCredentialsId: "deploy-to-cf"
